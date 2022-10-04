@@ -16,10 +16,10 @@ The users can able to add any script here or add the solution of some problems i
 
 **How to make successful PRs**
 
-- [ ] fork this repository
-- [ ] git clone --depth 1 
+* Fork the repository
+
 ```
-https://github.com/<your_github_user_name>/Hacktoberfest2022-python.git
+git clone https://github.com/<your_github_user_name>/Hacktoberfest2022-python.git
 ```
 ```
 cd Hacktoberfest2021-python
